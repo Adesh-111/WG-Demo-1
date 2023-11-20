@@ -1,0 +1,49 @@
+html{
+    background-color: blueviolet;
+}
+
+h1{
+    color: white;
+    text-align: center;
+    font-family: 'Caveat', cursive;
+    font-family: 'Libre Baskerville', serif;
+    font-family: 'Lilita One', sans-serif;
+    font-family: 'Nunito Sans', sans-serif;
+    font-family: 'Play', sans-serif;
+}
+
+h3{
+    color: white;
+    text-align: center;
+    border-bottom: 5px solid white;
+    padding-bottom: 10px;
+    
+}
+
+.box{
+    color: blueviolet;
+    display:flex ;
+    gap: 100px;
+    font-size: 30px;
+}
+
+#firstbox{
+  background-color: white;
+  border-radius: 5px;
+  padding: 10px 20px;
+  position: relative;
+  top: 200px;
+  left: 300px;
+}
+
+#secondbox{
+  background-color: white;
+  border-radius: 5px;
+  padding: 10px 20px;
+  position: relative;
+  top: 200px;
+  left: 600px;
+}
+a{
+  text-decoration: none;
+}
