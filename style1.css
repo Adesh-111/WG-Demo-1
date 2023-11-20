@@ -1,0 +1,48 @@
+html{
+    background-image: url(./images/registerbg.jpeg);
+    border-width: 100%;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+h1{
+    color: white;
+    text-align: center;
+    font-family: 'Caveat', cursive;
+    font-family: 'Libre Baskerville', serif;
+}
+
+.form{
+    position:relative;
+    margin: 200px 600px;
+    font-size: 25px;
+    color: white;
+}
+
+.box{
+    padding: 10px;
+    font-family: 'Caveat', cursive;
+    font-family: 'Libre Baskerville', serif;
+    font-family: 'Nunito Sans', sans-serif;
+    font-family: 'Play', sans-serif;
+    border-radius: 5px;
+    margin-left: 25px;
+}
+
+.Submit{
+   background-color: white;
+   color: purple;
+   padding: 10px ;
+   text-align: center;
+   text-decoration: none;
+   display: inline-block;
+   position: absolute;
+   left: 100px;
+   border-radius: 5px;
+}
+.reset{
+    padding: 8px;
+    margin-top:150px;
+    margin-left: 45px;
+    border-radius: 5px;
+}
